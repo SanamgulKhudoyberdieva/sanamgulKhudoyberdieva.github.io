@@ -1,0 +1,47 @@
+[
+    {
+        "src": "img/food1.png",
+        "alt": "Cold drink",
+        "caption": "This is cold drink"
+    },
+    {
+        "src": "img/food2.webp",
+        "alt": "Cake",
+        "caption": "This is my favourite pancake"
+    },
+    {
+        "src": "img/food3.png",
+        "alt": "Fast food",
+        "caption": "This is my favourite fast food"
+    },
+    {
+        "src": "img/food4.png",
+        "alt": "Plov",
+        "caption": "This is Uzbek national food"
+    },
+    {
+        "src": "img/food5.png",
+        "alt": "Samsa",
+        "caption": "This is Samsa"
+    },
+    {
+        "src": "img/food6.png",
+        "alt": "Sushi",
+        "caption": "This is sushi"
+    },
+    {
+        "src": "img/food7.png",
+        "alt": "Salat",
+        "caption": "This is my favourite salat"
+    },
+    {
+        "src": "img/food8.png",
+        "alt": "Cake",
+        "caption": "This is my the favourite chizcake"
+    },
+    {
+        "src": "img/food9.png",
+        "alt": "Coffee",
+        "caption": "This is my lovely coffee"
+    }     
+]
